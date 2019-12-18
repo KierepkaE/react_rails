@@ -1,4 +1,4 @@
-Tech:
+> Tech:
 
-- Rails 
-- React
+> - Rails 
+> - React
